@@ -30,3 +30,6 @@ THEN the password is either displayed in an alert or written to the page
 Goals: Make a password Generator with the Acceptance Criteria.
 So that the User can make password that is 8 characters to 128 characters that has the option to make it Lower Case Upper Case Special Numbers.
 At the end it will show the password parameters and allow you to copy the new password. 
+
+Here is the github pages link: 
+https://treymbach.github.io/Password-Generator/
